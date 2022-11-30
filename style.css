@@ -1,0 +1,56 @@
+body {
+	background-image: url("foto/background.jpg");
+	font: 17px Arial;
+}
+
+h3 {
+	padding: 20px;
+	font: 20px arial;
+	color: grey;
+	line-height: 0px;
+	margin: 10px;
+}
+
+h1 {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 50px;
+text-align: center;
+	font: 50px Courier New;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	text-align: justify;
+	margin: 10px;
+}
+
+figure {
+	float: right;
+	width: 200px;
+	height: 220px;
+	padding: 20px, 20px;
+	margin: 20px;
+
+}
+
+
+img {
+	padding-top: 20px;
+	padding-right: 15px;
+}
+
+iframe {
+	position: relative;
+	bottom: 50px;
+	right: 5px;
+}
